@@ -1,0 +1,1 @@
+)ı‚b<?php exit; ?>a:1:{s:7:"content";a:4:{s:17:"_wp_page_template";a:1:{i:0;s:7:"default";}s:21:"_wp_trash_meta_status";a:1:{i:0;s:5:"draft";}s:19:"_wp_trash_meta_time";a:1:{i:0;s:10:"1658010041";}s:21:"_wp_desired_post_slug";a:1:{i:0;s:14:"privacy-policy";}}}
